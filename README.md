@@ -71,3 +71,4 @@ print(f'O valor {num} é Par )
 else:
 print(f'o valor {num} é IMPAR') 
 ```
+
