@@ -60,7 +60,7 @@ numero | nome | nota
 
 Terminou  a tabela 
 
-Nao entendo direito  para que serve o comando ' document.getElementId() ' da linguagem JavaScript
+Nao entendo direito  para que serve o comando `document.getElementId()` da linguagem JavaScript
 
 olha meu programa em Python
 
