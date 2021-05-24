@@ -64,10 +64,10 @@ Nao entendo direito  para que serve o comando ' document.getElementId() ' da lin
 
 olha meu programa em Python
 
-'''
+```
 Uum =int(input("Digite um valor:")
 if num% 2==0/;
 print(f'O valor {num} é Par )
 else:
 print(f'o valor {num} é IMPAR') 
-'''
+```
