@@ -50,3 +50,24 @@ Lista de Tarefa
 
 
 [Acesse meu GitHub](https://github.com/porcel1910)
+
+
+numero | nome | nota
+---|---|---
+1| gustavo |8,5
+2|jose |10,0
+3| Maria |6,5
+
+Terminou  a tabela 
+
+Nao entendo direito  para que serve o comando ' document.getElementId() ' da linguagem JavaScript
+
+olha meu programa em Python
+
+'''
+Uum =int(input("Digite um valor:")
+if num% 2==0/;
+print(f'O valor {num} é Par )
+else:
+print(f'o valor {num} é IMPAR') 
+'''
