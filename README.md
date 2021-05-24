@@ -1,3 +1,4 @@
+![box_instagram_icon_188586](https://user-images.githubusercontent.com/55259661/119377025-03820880-bc93-11eb-8042-47d0687448e7.png)
 
 # Olá, Mundo!
  primeiro repositorio do **curso de git e GitHub**
